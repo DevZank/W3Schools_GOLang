@@ -1,1 +1,1 @@
-# W3Schools_GOLang
+# Exercicios do W3Schools para aprender GO
